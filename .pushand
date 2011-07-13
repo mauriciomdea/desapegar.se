@@ -1,2 +1,2 @@
 #! /bin/bash
-phd $0 desapegar_se true
+phd $0 desapegar_se desapegar.se
